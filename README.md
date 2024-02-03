@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+[![](https://visitcount.itsvg.in/api?id=RajatMishra21&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitkushwah3" alt="harshitkushwah3" /></a> </p>
