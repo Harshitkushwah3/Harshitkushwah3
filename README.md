@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Frontend Development](https://harshitkushwah3.github.io/Fitness/)
 
 - 📫 How to reach me **harshitkushwah51@gmail.com**
-<img align="right"alt="Coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif>
+<img align="right"alt="Coding"width="400"src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshitkush03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkush03" height="30" width="40" /></a>
