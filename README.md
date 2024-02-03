@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Frontend Development](https://harshitkushwah3.github.io/Fitness/)
 
 - 📫 How to reach me **harshitkushwah51@gmail.com**
-- <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffreelancer-doing-web-coding&psig=AOvVaw1kYOmuua22UlqWJSs141_8&ust=1707063125128000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjez-vHj4QDFQAAAAAdAAAAABAJ">
+- <img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffreelancer-doing-web-coding&psig=AOvVaw1kYOmuua22UlqWJSs141_8&ust=1707063125128000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjez-vHj4QDFQAAAAAdAAAAABAJ](https://cdnl.iconscout.com/lottie/premium/preview-watermark/programmer-4375641-3645911.mp4)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
