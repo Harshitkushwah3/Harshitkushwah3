@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **harshitkushwah51@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif)">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshitkush03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkush03" height="30" width="40" /></a>
