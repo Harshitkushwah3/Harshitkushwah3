@@ -1,5 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center"> Computer Science Undergraduate <br> and <br> a passionate Software Engineer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3" /> </p>
 <p align="left"> <a href="https://twitter.com/harshitkush03" target="blank"><img src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" alt="harshitkush03" /></a> </p>
 
@@ -7,7 +10,7 @@
 
 - 📫 How to reach me **harshitkushwah51@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshitkush03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitkush03" height="30" width="40" /></a>
