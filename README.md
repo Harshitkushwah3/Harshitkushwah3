@@ -10,7 +10,8 @@
 </div>
 
 <p><img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3"/></p>
-- 🔭 I’m currently working on [Java Development]()
+
+- 🔭 I’m currently working on [Java Development]() <br>
 - 📫 How to reach me **harshitkushwah51@gmail.com**
 
 <h3 align="left">Technologies:</h3>
