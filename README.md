@@ -35,9 +35,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p><be>
 </div>
+<br>
 <div align="left">
 <p><a href="https://twitter.com/harshitkush03" target="#"><img src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge"alt="harshitkush03" /></a> </p>
-<br>
+
 <p><a href="https://www.buymeacoffee.com/Harhsit Kushwah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harhsit Kushwah" /></a></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
