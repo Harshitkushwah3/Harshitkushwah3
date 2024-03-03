@@ -29,9 +29,10 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="70" height="70"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> </a> </p>
     <h3 align="left">Support:</h3>
+    </div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
 
-  </div>
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p>
 <div><p align="left"> <a href="https://twitter.com/harshitkush03" target="blank"><img src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" alt="harshitkush03" /></a> </p></div>
   <p><a href="https://www.buymeacoffee.com/Harhsit Kushwah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harhsit Kushwah" /></a></p><br><br>
