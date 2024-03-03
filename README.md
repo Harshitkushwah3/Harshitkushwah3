@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Science Undergraduate <br> and <br> a passionate Software Engineer from India</h3>
 <p><img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3"/></p>
 <p align="center">
-<a href="https://twitter.com/harshitkush03"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/harshitkush03"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg">Linkedin</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harshitkushwah/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
 </p>
 
