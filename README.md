@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center"> Computer Science Undergraduate <br> and <br> a passionate Software Engineer from India</h3>
 
-<div align="center">
+<div align="center" height:"100px">
     <img style ="position:center" alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif" >
 </div>
 <div><p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3" /> </p>
