@@ -33,10 +33,11 @@
 <h3 align="left">Support:</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p><be>
 </div>
 <div align="left">
-<p align="left"> <a href="https://twitter.com/harshitkush03" target="blank"><img align ="left" src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" alt="harshitkush03" /></a> </p>
-<p align="left"><a href="https://www.buymeacoffee.com/Harhsit Kushwah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harhsit Kushwah" /></a></p>
+<p><a href="https://twitter.com/harshitkush03" target="#"><img src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" height="50" width="210" alt="harshitkush03" /></a> </p>
+<p><a href="https://www.buymeacoffee.com/Harhsit Kushwah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harhsit Kushwah" /></a></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitkushwah3" alt="harshitkushwah3" /></a> </p>
