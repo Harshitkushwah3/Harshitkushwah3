@@ -35,7 +35,7 @@
 
 <h3 align="left">Status:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&show_icons=true&locale=en" alt="harshitkushwah3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&show_icons=true&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="harshitkushwah3" /></p>
 <div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
