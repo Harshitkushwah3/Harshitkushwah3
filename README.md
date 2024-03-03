@@ -1,4 +1,4 @@
-<h1 style="display: flex;align:center;"> Hi 👋, I'm Harshit Kushwah</h1>
+<h1 align="center"> Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center"> Computer Science Undergraduate <br> and <br> a passionate Software Engineer from India</h3>
 
 <div style="display: flex; justify-content: center; align-items: center;">
