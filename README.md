@@ -41,3 +41,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitkushwah3" alt="harshitkushwah3" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&show_icons=true&locale=en" alt="harshitkushwah3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
