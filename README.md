@@ -33,7 +33,6 @@
 <h3 align="left">Support:</h3>
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p><be>
 </div>
 <div align="left">
 <p align="left"> <a href="https://twitter.com/harshitkush03" target="blank"><img align ="left" src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" alt="harshitkush03" /></a> </p>
