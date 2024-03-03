@@ -35,8 +35,7 @@
 
 <h3 align="left">Work:</h3>
 <div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkushwah3&" alt="harshitkushwah3" /></p>
