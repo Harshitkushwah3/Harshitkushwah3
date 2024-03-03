@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Harshit Kushwah</h1>
 <h3 align="center"> Computer Science Undergraduate <br> and <br> a passionate Software Engineer from India</h3>
 
-<div align="center">
-    <img alt="Coding" width="400" height="auto" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif" style="width: 100%; height: 100%; object-fit: fill;">
+<div align="center"  >
+    <img  alt="Coding" width="400" src="https://c.tenor.com/Bpv9wTLKMskAAAAC/tenor.gif" >
 </div>
 
 <div><p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitkushwah3&label=Profile%20views&color=0e75b6&style=flat" alt="harshitkushwah3" /> </p>
@@ -31,7 +31,7 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3&count_private=true&theme=merko&show_icons=true&hide=prs" alt="harshitkushwah3" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p>
 <p align="left"> <a href="https://twitter.com/harshitkush03" target="blank"><img src="https://img.shields.io/twitter/follow/harshitkush03?logo=twitter&style=for-the-badge" alt="harshitkush03" /></a> </p>
 <p><a href="https://www.buymeacoffee.com/Harhsit Kushwah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Harhsit Kushwah" /></a></p>
