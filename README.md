@@ -35,7 +35,7 @@
 
 <h3 align="left">Status:</h3>
 <div>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3/&rank_icon=github" alt="harshitkushwah3"/></p>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=harshitkushwah3\&rank_icon=github" alt="harshitkushwah3"/></p>
 </div>
 <div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkushwah3&show_icons=true&locale=en&layout=compact" alt="harshitkushwah3" /></p>
